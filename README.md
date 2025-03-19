@@ -91,6 +91,11 @@ IT 기술을 통해 좀 더 따뜻한 세상을 만들고 싶은 개발자 김�
 - **기술 스택**: React, Next.js, ChatGPT API  
 - **SSR & SEO 최적화, 빠른 로딩 속도를 고려한 Next.js 채택**  
 
+### 🤖 RAG 기반 AI 챗봇 프로젝트
+- **Pinecone VectorDB, Upstage LLM을 활용한 채용 정보 검색 챗봇 개발**
+- **RAG 파이프라인 설계 및 평가 자동화(RAGAS, Matplotlib 활용)**
+- **데이터 전처리 및 Chunking 최적화로 검색 성능 개선**
+
 ---
 
 ## 🌱 What I'm Learning  
