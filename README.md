@@ -14,7 +14,7 @@
 
 ## 💼 Profile  
 
-**김민철 / Kim, Min Cheol
+**김민철 / Kim, Min Cheol**
 - **E-MAIL**: alscjf0327@naver.com  
 - **Devlog**: [http://codingfeature.tistory.com/](http://codingfeature.tistory.com/)  
 - **GitHub**: [https://github.com/MovieGoers](https://github.com/MovieGoers)  
