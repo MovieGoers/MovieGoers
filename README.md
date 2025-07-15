@@ -12,7 +12,7 @@
 <div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codingfeature)](https://solved.ac/codingfeature)
-<img src="http://mazandi.herokuapp.com/api?handle=codingfeature&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=codingfeature&theme=dark"/>
 </div>
 
 </div>
