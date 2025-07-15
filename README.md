@@ -13,14 +13,14 @@
 
 <div align="center">
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codingfeature)](https://solved.ac/codingfeature)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MovieGoers&layout=compact&theme=synthwave)
 
 </div>
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MovieGoers&layout=compact&theme=synthwave)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codingfeature)](https://solved.ac/codingfeature)
+<img src="http://mazandi.herokuapp.com/api?handle=syt05342&theme=warm"/>
 </div>
 
 ## 💻 Tech Stack
