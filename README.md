@@ -11,16 +11,12 @@
 
 </div>
 
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MovieGoers&layout=compact&theme=synthwave)
 
-</div>
 
 ## 💻 Tech Stack
 
 <div align="center">
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MovieGoers&layout=compact&theme=synthwave)
 ### 🧠 Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
