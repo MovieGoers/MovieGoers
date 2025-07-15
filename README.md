@@ -20,6 +20,7 @@
 
 
 <div align="center">
+  
 ## 💻 Tech Stack
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MovieGoers&layout=compact&theme=synthwave)
