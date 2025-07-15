@@ -14,10 +14,9 @@
 <div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codingfeature)](https://solved.ac/codingfeature)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MovieGoers&layout=compact&theme=synthwave)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MovieGoers&layout=compact&theme=synthwave)
 
 </div>
----
 
 ## 💻 Tech Stack
 
