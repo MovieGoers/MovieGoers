@@ -9,6 +9,12 @@
 [![Devlog](https://img.shields.io/badge/Devlog-Blog-ff5722?style=flat-square&logo=tistory)](http://codingfeature.tistory.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-MovieGoers-black?style=flat-square&logo=github)](https://github.com/MovieGoers)
 
+<div align="center">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codingfeature)](https://solved.ac/codingfeature)
+<img src="http://mazandi.herokuapp.com/api?handle=codingfeature&theme=warm"/>
+</div>
+
 </div>
 
 
@@ -47,12 +53,6 @@
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=Zustand)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo)
 
-</div>
-
-<div align="center">
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codingfeature)](https://solved.ac/codingfeature)
-<img src="http://mazandi.herokuapp.com/api?handle=codingfeature&theme=warm"/>
 </div>
 
 <div align="center">
