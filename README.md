@@ -17,12 +17,6 @@
 
 </div>
 
-<div align="center">
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codingfeature)](https://solved.ac/codingfeature)
-<img src="http://mazandi.herokuapp.com/api?handle=codingfeature&theme=warm"/>
-</div>
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -59,7 +53,15 @@
 
 <div align="center">
   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codingfeature)](https://solved.ac/codingfeature)
+<img src="http://mazandi.herokuapp.com/api?handle=codingfeature&theme=warm"/>
+</div>
+
+<div align="center">
+  
 ### Thanks for visiting 🙌  
 📫 Feel free to reach out anytime!
 
 </div>
+
+
