@@ -47,36 +47,6 @@
 
 </div>
 
----
-
-## 📌 About Me
-
-- 🎓 서강대학교 컴퓨터공학과 졸업 (2018.02 ~ 2024.08)
-- 🎖️ 前 카투사 복무 (2019.12 ~ 2021.07)
-- 🎓 삼성 청년 소프트웨어 아카데미 12기 수료 (Java 트랙, 1200시간)
-- 🌱 프론트엔드부터 AI까지 **풀스택 & 생성형 AI 개발자**를 지향
-
----
-
-## 🧩 Representative Projects
-
-- [사각 (모바일 토론 플랫폼)](https://github.com/MovieGoers/Square-Prj)
-- [다시, 봄 (퇴직자 커뮤니티)](https://github.com/MovieGoers/respring-prj)
-- [ZipPT (부동산 AI 검색)](https://github.com/MovieGoers/ZipPT-prj)
-- [MICRO PONG (3D 게임)](https://github.com/MovieGoers/MICRO-PINGPONG)
-
-📎 **전체 프로젝트 보기** → [Notion Portfolio](https://www.notion.so/15a32d73ef7081d0bce7f22e2061509f?pvs=21)
-
----
-
-## 🏆 Certificates & Awards
-
-- 🥉 2025.04 삼성 청년 SW 아카데미 특화 프로젝트 **우수상(3등)**
-- 🛠️ 정보처리기사 (2023.11)
-- 💬 OPIc AL (Advanced Low)
-
----
-
 <div align="center">
   
 ### Thanks for visiting 🙌  
