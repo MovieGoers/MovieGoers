@@ -11,6 +11,8 @@
 
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codingfeature)](https://solved.ac/codingfeature)
+
 ---
 
 ## 💻 Tech Stack
