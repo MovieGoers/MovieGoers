@@ -2,7 +2,7 @@
 
 # 👋 Mincheol Kim | 김민철  
 
-A front end developer who solves problems from the **user's perspective** —  
+A frontend developer who solves problems from the **user's perspective** —  
 **Striving to be an empathetic developer**
 
 [![Email](https://img.shields.io/badge/Email-alscjf0327@naver.com-blue?style=flat-square&logo=gmail)](mailto:alscjf0327@naver.com)
