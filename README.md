@@ -1,27 +1,28 @@
 <div align="center">
 
-# 👋 김민철 | Kim, Min Cheol
+# 👋 Mincheol Kim | 김민철  
 
-사용자의 입장에서 문제를 해결하는,  
-**공감하는 개발자 김민철입니다.**  
+A front end developer who solves problems from the **user's perspective** —  
+**Striving to be an empathetic developer**
 
 [![Email](https://img.shields.io/badge/Email-alscjf0327@naver.com-blue?style=flat-square&logo=gmail)](mailto:alscjf0327@naver.com)
 [![Devlog](https://img.shields.io/badge/Devlog-Blog-ff5722?style=flat-square&logo=tistory)](http://codingfeature.tistory.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-MovieGoers-black?style=flat-square&logo=github)](https://github.com/MovieGoers)
 
 <div align="center">
-  
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codingfeature)](https://solved.ac/codingfeature)
+
 </div>
 
 </div>
 
 <div align="center">
-  
-## 💻 Tech Stack
-  
+
+## 💻 Tech Stack  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MovieGoers&layout=compact&theme=synthwave)
-  
+
 ### 🧠 Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -53,20 +54,20 @@
 </div>
 
 <div align="center">
-  
+
 ## 📚 Currently Studying  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  
-**반응형 웹 · 웹 표준 · 웹 접근성**
+
+**Responsive Web · Web Standards · Web Accessibility**
 
 </div>
 
 <div align="center">
-  
+
 ### Thanks for visiting 🙌  
 📫 Feel free to reach out anytime!
 
