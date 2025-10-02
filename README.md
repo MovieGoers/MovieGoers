@@ -68,6 +68,14 @@ A frontend developer who solves problems from the **user's perspective** —
 
 <div align="center">
 
+## 🏢 Currently Working  
+
+**N Tech Service** — Naver UI Development (HTML5 / CSS3 / JavaScript / React.js)
+
+</div>
+
+<div align="center">
+
 ### Thanks for visiting 🙌  
 📫 Feel free to reach out anytime!
 
