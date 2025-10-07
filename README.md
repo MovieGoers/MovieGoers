@@ -67,7 +67,7 @@
 
 ## 🏢 Currently Working  
 
-**N Tech Service** — Naver UI Development (HTML5 / CSS3 / JavaScript / React.js)
+**N Tech Service** — Naver UI Development (HTML5 / CSS3 / SCSS / JavaScript / TypeScript / React.js)
 
 </div>
 
