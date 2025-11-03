@@ -6,20 +6,21 @@
 [![Devlog](https://img.shields.io/badge/Devlog-Blog-ff5722?style=flat-square&logo=tistory)](http://codingfeature.tistory.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-MovieGoers-black?style=flat-square&logo=github)](https://github.com/MovieGoers)
 
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codingfeature)](https://solved.ac/codingfeature)
-
-</div>
-
 </div>
 
 <div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codingfeature)](https://solved.ac/codingfeature)
 
-## 💻 Tech Stack  
+</div>
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MovieGoers&layout=compact&theme=synthwave)
+  
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MovieGoers&layout=compact&theme=synthwave)
-
+<div align="center">
+  
 ### 🧠 Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
